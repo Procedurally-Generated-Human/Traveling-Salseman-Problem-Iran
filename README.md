@@ -4,7 +4,7 @@ This is a project my classmate and I worked on for our Discrete Mathematics cour
    
    
 
-![alt text](https://github.com/Procedurally-Generated-Human/Traveling-Salseman-Problem-Iran/blob/main/map.png)
+![map](https://github.com/Procedurally-Generated-Human/Traveling-Salseman-Problem-Iran/blob/main/White-Black.png)
 
 ## The Problem
 Find the shortest circuit that goes through every city in Iran in which every node represents a city and the paths between two nodes are striaght lines. 
