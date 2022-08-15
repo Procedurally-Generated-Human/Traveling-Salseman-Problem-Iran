@@ -25,3 +25,13 @@ For the algorithm, we used Concorde, an exact TSP solver. for our project, we us
 
 ## Computing the Solution
 The first attempt to compute the solution was attempted on my laptop After 2 days, the solution was still not found. We then switched to using Google collab, the solution was found in about 10 minutes.
+
+
+## Bringing Everything Together with Python. 
+Python was used due to its ease of use and many helpful libraries. The Python script does the following:      
+1- Import the dataset.   
+2- Clean the dataset.  
+3- Feed the data to the algorithm.  
+4- Convert the result to a map. 
+
+The code for the python script can be found here: https://colab.research.google.com/drive/1gpFn6h_BR1OjPv0yntvZeXQNMzXHqQp4?usp=sharing
