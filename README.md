@@ -34,4 +34,5 @@ Python was used due to its ease of use and many helpful libraries. The Python sc
 3- Feed the data to the algorithm.  
 4- Convert the result to a map. 
 
-The code for the python script can be found here: https://colab.research.google.com/drive/1gpFn6h_BR1OjPv0yntvZeXQNMzXHqQp4?usp=sharing
+The code for the python script can be found [here](https://colab.research.google.com/drive/1gpFn6h_BR1OjPv0yntvZeXQNMzXHqQp4?usp=sharing)
+
