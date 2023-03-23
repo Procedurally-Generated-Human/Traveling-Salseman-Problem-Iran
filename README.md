@@ -7,7 +7,7 @@ This is a project my classmate and I worked on for our Discrete Mathematics cour
 ![map](https://github.com/Procedurally-Generated-Human/Traveling-Salseman-Problem-Iran/blob/main/White-Black.png)
 
 ## The Problem
-Find the shortest circuit that goes through every city in Iran in which every node represents a city and the paths between two nodes are striaght lines. 
+Find the shortest circuit(closed path) that goes through every city in Iran in which every node represents a city and the paths between two nodes are striaght lines. 
 
 ## Finding the Solution
 To create this map, the following was needed:
@@ -24,7 +24,7 @@ After cleaning the data, 1176 cities remained (94.4% of 1245 cities).
 For the algorithm, we used Concorde, an exact TSP solver. for our project, we used [PyConcorde](https://github.com/jvkersch/pyconcorde) which is a Python wrapper around Concorde.
 
 ## Computing the Solution
-The first attempt to compute the solution was attempted on my laptop After 2 days, the solution was still not found. We then switched to using Google collab, the solution was found in about 10 minutes.
+The first attempt to compute the solution was attempted on my laptop After 2 days, the solution was still not found. We then switched to using Google collab, the final solution was found in about 10 minutes.
 
 
 ## Bringing Everything Together with Python. 
